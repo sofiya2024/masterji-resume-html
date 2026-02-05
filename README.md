@@ -3,8 +3,9 @@
 This project is a **single-page resume website** built using **pure HTML only**, without any CSS or JavaScript.  
 The goal of this assignment is to demonstrate clean HTML structure, correct semantic usage, and readable layout while closely matching the provided reference design.
 
-## Live Demo / Output: 
+## Live Demo / Output: https://sofiya2024.github.io/masterji-resume-html/
 
+<img width="1904" height="962" alt="image" src="https://github.com/user-attachments/assets/eaeee8b3-4e33-4f92-8ec6-9dd3ef8052eb" />
 
 ## 📌 Project Overview
 
